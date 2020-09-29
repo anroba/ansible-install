@@ -1,0 +1,6 @@
+[apigee]
+host01 ansible_port=22 ansible_host=10.154.0.1
+host02 ansible_port=22 ansible_host=10.154.0.2
+host03 ansible_port=22 ansible_host=10.154.0.3
+host04 ansible_port=22 ansible_host=10.154.0.4
+
